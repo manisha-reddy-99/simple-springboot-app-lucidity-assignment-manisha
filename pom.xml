@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.springboot</groupId>
-	<artifactId>simple-springboot-app-lucidity-assignment-manisha</artifactId>
+	<artifactId>simple-springboot-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
