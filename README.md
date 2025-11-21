@@ -15,7 +15,7 @@ The server will start at port 9001
 # How to run the tests
 ./mvnw test  
 
-# Lucidity Assignment - sample-cart-offer
+# Lucidity Assignment (sample-cart-offer-manisha)
 Created new util for adding offer, getting user segment by hitting the mock api, add offer without authentication, get segments methods.
 CartOfferTestUtils.java (Test Util)
 
